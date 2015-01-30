@@ -1,0 +1,3 @@
+function clickPic() {
+    alert("Hello");
+}
